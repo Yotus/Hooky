@@ -1,0 +1,12 @@
+C:\Users\Ethan Amaral\source\repos\Hooky\Hooky\bin\Debug\Hooky.exe.config
+C:\Users\Ethan Amaral\source\repos\Hooky\Hooky\bin\Debug\Hooky.exe
+C:\Users\Ethan Amaral\source\repos\Hooky\Hooky\bin\Debug\Hooky.pdb
+C:\Users\Ethan Amaral\source\repos\Hooky\Hooky\obj\Debug\Hooky.csprojResolveAssemblyReference.cache
+C:\Users\Ethan Amaral\source\repos\Hooky\Hooky\obj\Debug\Hooky.gui.resources
+C:\Users\Ethan Amaral\source\repos\Hooky\Hooky\obj\Debug\Hooky.Properties.Resources.resources
+C:\Users\Ethan Amaral\source\repos\Hooky\Hooky\obj\Debug\Hooky.csproj.GenerateResource.Cache
+C:\Users\Ethan Amaral\source\repos\Hooky\Hooky\obj\Debug\Hooky.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Amaral\source\repos\Hooky\Hooky\obj\Debug\Hooky.exe
+C:\Users\Ethan Amaral\source\repos\Hooky\Hooky\obj\Debug\Hooky.pdb
+C:\Users\Ethan Amaral\source\repos\Hooky\Hooky\obj\Debug\Hooky.addNewBot.resources
+C:\Users\Ethan Amaral\source\repos\Hooky\Hooky\obj\Debug\Hooky.httpresponse.resources
